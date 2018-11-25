@@ -166,13 +166,13 @@ Force.com developer should format code.
         ...
         }
 
-  == Header Comments
+  == Comments
 
-    All files should begin with a c-style comment that lists the company, date, author, description, and
+    If you need to put comments before a class, field, constructor or method declaration to tell what they are for, use doc comment style(/** ... */)
+    All apex classes should be commented with date, author, description, and
     history:
 
-        /*
-         * Company
+        /**
          * Date
          * Author
          * Description
