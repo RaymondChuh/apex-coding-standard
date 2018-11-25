@@ -169,8 +169,7 @@ Force.com developer should format code.
   == Comments
 
     If you need to put comments before a class, field, constructor or method declaration to tell what they are for, use doc comment style(/** ... */)
-    All apex classes should be commented with date, author, description, and
-    history:
+    All apex classes should be commented with date, author, description, and history:
 
         /**
          * Date
